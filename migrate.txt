@@ -1,0 +1,9 @@
+# How to move to a new computer
+
+1. import the secret keys
+`gpg --import secret_key.gpg`
+
+2. clone the repo
+`git clone git@github.com:gypsydave5/pass.git ~/.password-store`
+
+3. That's it
